@@ -1,7 +1,7 @@
 <html>
 <head><title>Hamit Can Uzunay - Odev 2</title>
 <style>
-    <!-- Tablo etrafına çerçeve için alttaki css kodu -->
+    /*-- Tablo etrafına çerçeve için alttaki css kodu */
     table, th, td {
         border: 2px solid #ffcb67;
     }
